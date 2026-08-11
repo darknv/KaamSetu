@@ -36,12 +36,10 @@ KaamSetu/
 │   │   ├── components/
 │   │   │   ├── Navbar.jsx
 │   │   │   └── Grid.jsx
-│   │   │
-│   │   ├── pages/
-│   │   │   ├── Home.jsx
-│   │   │   ├── LoginRegister.jsx
+│   │   │   └── Login Register.jsx
+│   │   │   ├── Hero.jsx
 │   │   │   └── UserProfile.jsx
-│   │   │
+│   │   │   
 │   │   ├── data/
 │   │   │   └── data.js
 │   │   │
